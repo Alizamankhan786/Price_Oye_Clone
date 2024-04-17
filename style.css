@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+#main-div{
+    display: flex;
+    background-color: blue;
+    /* justify-content: center; */
+    /* margin-bottom: 100%; */
+    
+}
+
+#img-widt{
+    margin-top: 5%;
+    gap: 8px;
+}
+
+#inp-pad{
+    justify-content: center;
+    width: 200%;
+    height: 110%;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-orange{
+    background-color: orange;
+}
