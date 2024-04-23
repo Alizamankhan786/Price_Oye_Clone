@@ -35,3 +35,13 @@
 .hov{
     
 }
+
+#btn-size{
+    /* border-radius: 50%; */
+    width: 20%;
+    height: 20%;
+}
+
+#btn-size:hover{
+    background-color: blue;
+}
